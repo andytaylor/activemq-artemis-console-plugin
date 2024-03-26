@@ -55,7 +55,3 @@ Now you should be able to preview the plugins under development at <http://local
 hasn't been connected to a backend JVM, You can then connect to a running Artemis instance using the connect tab using for 
 instance http://localhost:8161/console/jolokia.
 You can now edit the artemis console web application and see changes loaded live.
-
-
-
-
